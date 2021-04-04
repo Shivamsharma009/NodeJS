@@ -1,0 +1,41 @@
+Crud api
+middleware
+
+//Global middleware
+
+//Creating our own middleware
+
+
+
+Server(Vs Code) <---------------------------------------------- > Client(Browser)
+                               |
+                               |
+                               |
+                               |
+
+                               middleware
+
+
+
+Routers Network
+
+www.google.com
+
+dns --> ip
+
+internet connection
+
+
+india server ---->  kanpur , content delivery Network,
+
+
+morgan use
+-----------------------
+
+we use morgan third party middleware called morgan Which is very popular for logging
+middleware so A middleware that allow goona allow us to see request data right in the console.
+
+
+
+npm i morgan@1.9.1
+npm i express@4.16.4
